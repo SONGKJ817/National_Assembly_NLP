@@ -22,9 +22,9 @@
 - 일관성 있는 Prompting 전략
 
 ### <구현 화면>
-<img src="https://github.com/tgwon/National_Assembly_NLP/assets/102985590/21804a77-8731-42f6-8b49-d9b7d4562932"  width="960" height="600">
+<img src="https://github.com/tgwon/National_Assembly_NLP/assets/102985590/21804a77-8731-42f6-8b49-d9b7d4562932"  width="980" height="600">
 <br/>
 <br/>
 <br/>
 
-<img src="https://github.com/tgwon/National_Assembly_NLP/assets/102985590/b71cbbdb-3240-41e7-be79-6edb0ff97e1b"  width="970" height="550">
+<img src="https://github.com/tgwon/National_Assembly_NLP/assets/102985590/b71cbbdb-3240-41e7-be79-6edb0ff97e1b"  width="990" height="550">
